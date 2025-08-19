@@ -64,3 +64,25 @@ Create a side-scrolling shooter (left-to-right movement) featuring a futuristic 
 3. **Power Scaling**: Gradually shift from survival mode to power fantasy
 4. **Environmental Mastery**: Use destructible physics to create tactical advantages
 5. **Deep Run Rewards**: Extended survival unlocks exotic weapons and game-changing abilities
+
+## Prototype
+
+A minimal prototype using Pygame is included in `prototype.py`.
+
+### Requirements
+- Python 3
+- pygame
+
+### Run
+
+```bash
+pip install pygame
+python prototype.py
+```
+
+For headless environments:
+
+```bash
+SDL_VIDEODRIVER=dummy python prototype.py --test
+```
+
