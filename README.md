@@ -1,7 +1,3 @@
-Here's a refined and structured version of your game design prompt:
-
----
-
 # **COSMIC RIFT RUNNER**
 *A Roguelike Side-Scrolling Space Shooter*
 
@@ -68,7 +64,3 @@ Create a side-scrolling shooter (left-to-right movement) featuring a futuristic 
 3. **Power Scaling**: Gradually shift from survival mode to power fantasy
 4. **Environmental Mastery**: Use destructible physics to create tactical advantages
 5. **Deep Run Rewards**: Extended survival unlocks exotic weapons and game-changing abilities
-
----
-
-**Target Experience**: A visually stunning, mechanically satisfying shooter that balances challenge with empowerment, wrapped in a distinctive art style that feels both familiar and refreshingly unique.
